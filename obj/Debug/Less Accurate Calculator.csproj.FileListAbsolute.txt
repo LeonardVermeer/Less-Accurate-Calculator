@@ -1,0 +1,12 @@
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\obj\Debug\Less Accurate Calculator.csproj.AssemblyReference.cache
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\obj\Debug\Less_Accurate_Calculator.Properties.Resources.resources
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\obj\Debug\Less Accurate Calculator.csproj.GenerateResource.cache
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\obj\Debug\Less Accurate Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\bin\Debug\Less Accurate Calculator.exe.config
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\bin\Debug\Less Accurate Calculator.exe
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\bin\Debug\Less Accurate Calculator.pdb
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\obj\Debug\Less Accurate Calculator.csproj.CopyComplete
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\obj\Debug\Less Accurate Calculator.exe
+C:\Users\lgver\source\repos\PRG282\Less Accurate Calculator\obj\Debug\Less Accurate Calculator.pdb
